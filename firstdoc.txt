@@ -1,8 +1,7 @@
 This is first doc
 
-<<<<<<< HEAD
 changed by user 2
 3121321
-=======
+
 CHange by user1
->>>>>>> 765df0edff292dd9883fc481b52715ebe7e8e23c
+
